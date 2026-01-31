@@ -53,10 +53,12 @@ Key insights:
 ## 🖼 Dashboard Preview
 
 ### Overview Dashboard
-![Overview Dashboard](Screenshots/overview_dashboard.png)
+![Overview Dashboard](Screenshots/IPL_DASHBOARD_PBI.png)
+
 
 ### Player Performance Dashboard
-![Player Performance Dashboard](Screenshots/player_performance.png)
+![Player Performance Dashboard](Screenshots/IPL_DASHBOARD_PBI_1.png)
+
 
 > Note: Due to Power BI Service access limitations, the interactive dashboard
 > is demonstrated using screenshots.
